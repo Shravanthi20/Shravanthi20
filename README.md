@@ -45,9 +45,11 @@ Data Visualization           █████████░ 85%
 Open Source & Git            ████████░░ 80%
 ```
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-🛠️ Tech Stack
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/> </p> <p align="center"> <img src="https://avatars.githubusercontent.com/u/56888241?s=200&v=4" width="45"/> <img src="https://avatars.githubusercontent.com/u/190310?s=200&v=4" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-📊 Featured Projects
+
+## 🛠️ Tech Stack
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/> </p> <p align="center"> <img src="https://avatars.githubusercontent.com/u/56888241?s=200&v=4" width="45"/> <img src="https://avatars.githubusercontent.com/u/190310?s=200&v=4" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>  
+
+## 📊 Featured Projects
 
 🚗 Vehicle Parking System – Real-time parking slot booking & payment management
 
@@ -60,7 +62,7 @@ Open Source & Git            ████████░░ 80%
 🎮 Story Builder for Kids – Inclusive React app for autistic children
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-📂 Repositories
+## 📂 Repositories
 🚀 Full-Stack & Application Development
 
 math-mentor – Math Problem Generator & Auto Grader (MERN)
@@ -89,12 +91,11 @@ sgpa-calculator – SGPA calculator (React)
 
 Interactive-Story-Builder – Inclusive React app
 
-🌐 Portfolio
 
-portfolio – Personal portfolio website
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 📈 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shravanthi20&show_icons=true&theme=radical" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravanthi20&layout=compact&theme=radical" height="170"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Shravanthi20&theme=radical&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Shravanthi20&theme=radical&margin-w=12&margin-h=12"/> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shravanthi20&show_icons=true&theme=radical" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravanthi20&layout=compact&theme=radical" height="170"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Shravanthi20&theme=radical&hide_border=true" height="170"/> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 ✨ Open to collaboration, open source contributions, and learning opportunities.
