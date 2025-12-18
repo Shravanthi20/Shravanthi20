@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/GSoC-Aspirant-orange"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🚀 About Me  
 
@@ -24,7 +24,7 @@
 🔭 Working on **Machine Learning, Web Applications, Knowledge Graphs, and Data Visualization**  
 🌱 Actively contributing to **Open Source** and growing through hands-on projects  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🌱 Currently Learning  
 
@@ -33,117 +33,68 @@
 - 🤖 Large / Small Language Models (LLMs & SLMs)  
 - 🌐 Scalable Backend & System Design  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 🛠️ Tech Stack  
+## 🧩 Skill Focus  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-</p>
+```text
+Python & Data Science        ██████████ 90%
+Machine Learning             █████████░ 90%
+Full-Stack Development       ████████░░ 80%
+Data Visualization           █████████░ 85%
+Open Source & Git            ████████░░ 80%
+```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+🛠️ Tech Stack
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/> </p> <p align="center"> <img src="https://avatars.githubusercontent.com/u/56888241?s=200&v=4" width="45"/> <img src="https://avatars.githubusercontent.com/u/190310?s=200&v=4" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+📊 Featured Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
-</p>
+🚗 Vehicle Parking System – Real-time parking slot booking & payment management
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
-</p>
+🧠 Ontology & Knowledge Graph QA System – Natural language QA over RDF graphs
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/56888241?s=200&v=4" width="45"/>
-  <img src="https://avatars.githubusercontent.com/u/190310?s=200&v=4" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
-</p>
+📊 Health & Social Inequality Mapping (NFHS-5) – Tableau & Python-based district analysis
 
----
+💰 Monetra (FinanceTracker) – ML-powered personal finance tracker
 
-## 📊 Featured Projects  
+🎮 Story Builder for Kids – Inclusive React app for autistic children
 
-- 🚗 **Vehicle Parking System**  
-  Real-time parking slot booking & payment management  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+📂 Repositories
+🚀 Full-Stack & Application Development
 
-- 🧠 **Ontology & Knowledge Graph QA System**  
-  Natural language question answering over RDF graphs  
+math-mentor – Math Problem Generator & Auto Grader (MERN)
 
-- 📊 **Health & Social Inequality Mapping (NFHS-5)**  
-  District-level data visualization using Tableau & Python  
+FinanceTracker (Monetra) – ML-powered personal finance tracker
 
-- 💰 **Monetra (FinanceTracker)**  
-  ML-powered personal finance tracker with forecasting  
+vehicle-parking-app – Parking slot booking system
 
-- 🎮 **Story Builder for Kids**  
-  Interactive React app designed for autistic children  
+Grocery-app – Online grocery app (HTML, CSS, Electron)
 
----
+🧠 AI, NLP & Intelligent Systems
 
-## 📂 Repositories  
+contract-summariser – Streamlit-based NLP contract summarizer
 
-### 🚀 Full-Stack & Application Development
-- **math-mentor** – Math Problem Generator & Auto Grader (MERN stack)  
-- **FinanceTracker (Monetra)** – ML-powered personal finance tracker (MERN)  
-- **vehicle-parking-app** – Real-time parking slot booking system  
-- **Grocery-app** – Online grocery app using HTML, CSS & Electron JS  
+Ontology & Knowledge Graph Projects – RDF-based QA systems
 
-### 🧠 AI, NLP & Intelligent Systems
-- **contract-summariser** – Streamlit-based NLP app for legal contract summarization  
-- **Ontology & Knowledge Graph Projects** – RDF-based QA systems  
+📊 Data Visualization & Analytics
 
-### 📊 Data Visualization & Analytics
-- **DataVisualisation** – NFHS-5 district-level analysis using Tableau & Python  
+DataVisualisation – NFHS-5 district-level visualization using Tableau & Python
 
-### 🎨 Frontend & UI Projects
-- **scientific-calculator** – Scientific calculator built with React  
-- **sgpa-calculator** – SGPA calculator using React, HTML & CSS  
-- **Interactive-Story-Builder** – Inclusive React app for children with autism  
+🎨 Frontend & UI Projects
 
-### 🌐 Portfolio & Personal Branding
-- **portfolio** – Personal portfolio website  
+scientific-calculator – React-based scientific calculator
 
----
+sgpa-calculator – SGPA calculator (React)
 
-## 📈 GitHub Analytics  
+Interactive-Story-Builder – Inclusive React app
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shravanthi20&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravanthi20&layout=compact&theme=radical" height="170"/>
-</p>
+🌐 Portfolio
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shravanthi20&theme=radical&hide_border=true" height="170"/>
-</p>
+portfolio – Personal portfolio website
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shravanthi20&theme=radical&margin-w=12&margin-h=12"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+📈 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shravanthi20&show_icons=true&theme=radical" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravanthi20&layout=compact&theme=radical" height="170"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Shravanthi20&theme=radical&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Shravanthi20&theme=radical&margin-w=12&margin-h=12"/> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shravanthi-s/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://shravanthiportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-black?logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
-
-✨ *Open to collaboration, open source contributions, and learning opportunities.*  
+✨ Open to collaboration, open source contributions, and learning opportunities.
