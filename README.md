@@ -83,11 +83,36 @@
 - 📊 **Health & Social Inequality Mapping (NFHS-5)**  
   District-level data visualization using Tableau & Python  
 
-- 💰 **Monetra**  
+- 💰 **Monetra (FinanceTracker)**  
   ML-powered personal finance tracker with forecasting  
 
 - 🎮 **Story Builder for Kids**  
   Interactive React app designed for autistic children  
+
+---
+
+## 📂 Repositories  
+
+### 🚀 Full-Stack & Application Development
+- **math-mentor** – Math Problem Generator & Auto Grader (MERN stack)  
+- **FinanceTracker (Monetra)** – ML-powered personal finance tracker (MERN)  
+- **vehicle-parking-app** – Real-time parking slot booking system  
+- **Grocery-app** – Online grocery app using HTML, CSS & Electron JS  
+
+### 🧠 AI, NLP & Intelligent Systems
+- **contract-summariser** – Streamlit-based NLP app for legal contract summarization  
+- **Ontology & Knowledge Graph Projects** – RDF-based QA systems  
+
+### 📊 Data Visualization & Analytics
+- **DataVisualisation** – NFHS-5 district-level analysis using Tableau & Python  
+
+### 🎨 Frontend & UI Projects
+- **scientific-calculator** – Scientific calculator built with React  
+- **sgpa-calculator** – SGPA calculator using React, HTML & CSS  
+- **Interactive-Story-Builder** – Inclusive React app for children with autism  
+
+### 🌐 Portfolio & Personal Branding
+- **portfolio** – Personal portfolio website  
 
 ---
 
