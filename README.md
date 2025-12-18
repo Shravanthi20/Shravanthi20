@@ -61,37 +61,31 @@ Open Source & Git            ████████░░ 80%
 
 🎮 Story Builder for Kids – Inclusive React app for autistic children
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-## 📂 Repositories
-🚀 Full-Stack & Application Development
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>  
 
-math-mentor – Math Problem Generator & Auto Grader (MERN)
+## 📂 Repositories  
 
-FinanceTracker (Monetra) – ML-powered personal finance tracker
+## 🚀 Full-Stack & Application Development
 
-vehicle-parking-app – Parking slot booking system
+- **math-mentor** – Math Problem Generator & Auto Grader (MERN)
+- **FinanceTracker (Monetra)** – ML-powered personal finance tracker
+- **vehicle-parking-app** – Parking slot booking system
+- **Grocery-app** – Online grocery app (HTML, CSS, Electron)
 
-Grocery-app – Online grocery app (HTML, CSS, Electron)
+## 🧠 AI, NLP & Intelligent Systems
 
-🧠 AI, NLP & Intelligent Systems
+- **contract-summariser** – Streamlit-based NLP contract summarizer
+- **Ontology & Knowledge Graph Projects** – RDF-based QA systems
 
-contract-summariser – Streamlit-based NLP contract summarizer
+## 📊 Data Visualization & Analytics
 
-Ontology & Knowledge Graph Projects – RDF-based QA systems
+- **DataVisualisation** – NFHS-5 district-level visualization using Tableau & Python
 
-📊 Data Visualization & Analytics
+## 🎨 Frontend & UI Projects
 
-DataVisualisation – NFHS-5 district-level visualization using Tableau & Python
-
-🎨 Frontend & UI Projects
-
-scientific-calculator – React-based scientific calculator
-
-sgpa-calculator – SGPA calculator (React)
-
-Interactive-Story-Builder – Inclusive React app
-
-
+- **scientific-calculator** – React-based scientific calculator
+- **sgpa-calculator** – SGPA calculator (React)
+- **Interactive-Story-Builder** – Inclusive React app  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 📈 GitHub Analytics
