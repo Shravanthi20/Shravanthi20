@@ -27,15 +27,15 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
-🎓 Computer Science Engineering student passionate about building meaningful, real-world solutions  
-💡 Exploring AI, Data Science, Full-Stack Development & Language Models  
-🌱 Active open-source contributor (SWoC / GSoC Aspirant)
+- Computer Science Engineering student passionate about building meaningful, real-world solutions  
+- Exploring AI, Data Science, Full-Stack Development & Language Models  
+- Active open-source contributor in GSSoc, SWoC
 
 ---
 
-## 🌱 Currently Learning  
+##  Currently Learning  
 
 - Machine Learning & Model Optimization  
 - Advanced Data Visualization & Geospatial Analysis  
@@ -44,7 +44,7 @@
 
 ---
 
-## 🧩 Skill Focus  
+##  Skill Focus  
 
 ```text
 Python & Data Science        ██████████ 90%
@@ -53,7 +53,7 @@ Full-Stack Development       ████████░░ 80%
 Data Visualization           █████████░ 85%
 Open Source & Git            ████████░░ 80%
 ```
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -92,15 +92,15 @@ Open Source & Git            ████████░░ 80%
 ---
 ## 📊 Featured Projects
 
-- 🚗 **Vehicle Parking System** — Real-time parking slot booking  
-- 🧠 **Ontology & Knowledge Graph QA System**  
-- 📊 **NFHS-5 Health & Social Inequality Mapping**  
-- 💰 **Monetra** — ML powered finance tracker  
-- 🎮 **Story Builder for Kids**
+-  **Vehicle Parking System** — Real-time parking slot booking  
+-  **Ontology & Knowledge Graph QA System**  
+-  **NFHS-5 Health & Social Inequality Mapping**  
+-  **Monetra** — ML powered finance tracker  
+-  **Story Builder for Kids**
 
 ---
 
-## 📂 Repository Categories
+##  Repository Categories
 
 ### Full-Stack
 - math-mentor  
