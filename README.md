@@ -15,15 +15,23 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Shravanthi20?theme=github-dark&amp;cardType=github" height="180"/>
-  <img src="https://leetcard.jacoblin.cool/satyanar061?theme=dark&amp;font=Josefin%20Slab&amp;ext=heatmap" height="180"/>
+  <img
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/Shravanthi20?theme=github-dark&amp;cardType=github&amp;v=1"
+    height="180"
+  />
+  <img
+    src="https://leetcard.jacoblin.cool/satyanar061?theme=dark&amp;font=Josefin%20Slab&amp;ext=heatmap&amp;v=1"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shravanthi20&amp;theme=radical"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shravanthi20&amp;theme=radical&amp;v=1"
+  />
 </p>
+
 
 
 ---
