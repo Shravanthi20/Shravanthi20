@@ -81,11 +81,11 @@
 
 <div align="center">
 
-[![InDel](https://github-readme-stats.vercel.app/api/pin/?username=Shravanthi20&repo=InDel&theme=radical&hide_border=true)](https://github.com/Shravanthi20/InDel)
+[![InDel](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shravanthi20&repo=InDel&theme=radical&hide_border=true)](https://github.com/Shravanthi20/InDel)
 [![food-redistribution-system](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shravanthi20&repo=food-redistribution-system&theme=radical&hide_border=true)](https://github.com/Shravanthi20/food-redistribution-system)
-[![secure-idea-vault](https://github-readme-stats.vercel.app/api/pin/?username=Shravanthi20&repo=secure-idea-vault&theme=radical&hide_border=true)](https://github.com/Shravanthi20/secure-idea-vault)
-[![contract-summariser](https://github-readme-stats.vercel.app/api/pin/?username=Shravanthi20&repo=contract-summariser&theme=radical&hide_border=true)](https://github.com/Shravanthi20/contract-summariser)
-[![Interactive-Story-Builder](https://github-readme-stats.vercel.app/api/pin/?username=Shravanthi20&repo=Interactive-Story-Builder&theme=radical&hide_border=true)](https://github.com/Shravanthi20/Interactive-Story-Builder)
+[![secure-idea-vault](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shravanthi20&repo=secure-idea-vault&theme=radical&hide_border=true)](https://github.com/Shravanthi20/secure-idea-vault)
+[![contract-summariser](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shravanthi20&repo=contract-summariser&theme=radical&hide_border=true)](https://github.com/Shravanthi20/contract-summariser)
+[![Interactive-Story-Builder](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shravanthi20&repo=Interactive-Story-Builder&theme=radical&hide_border=true)](https://github.com/Shravanthi20/Interactive-Story-Builder)
 
 </div>
 
